@@ -22,7 +22,7 @@ This kit has different branches. Pull the branch you need for your project.
 ## Hardhat shorthand
 Check [hardhats website for updates](https://hardhat.org/guides/shorthand.html)
 
-RUN ```npm i -g hardhat-shorthand``` 
+RUN ```npm i -g hardhat-shorthand``` You will need to open a new terminal for this to take effect.
 I have found that this does not run in powershell
 
 ## Testing
