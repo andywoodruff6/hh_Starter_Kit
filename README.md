@@ -15,7 +15,7 @@ This kit has different branches. Pull the branch you need for your project.
 2) RUN ``` git init ```
 3) RUN ``` git clone https://github.com/andywoodruff6/hh_Starter_Kit.git ```
 4) In the terminal ``` git checkout ``` 'the branch you want'
-5) RUN ``` npm install --save dev @nomiclabs/hardhat-waffle ethereum-waffle hardhat-ethers hardhat-web3 chai ethers web3 @openzeppelin/contracts```
+5) RUN ``` npm install --save dev @openzeppelin/contracts @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-web3 web3```
 6) OPTIONAL: If you are going to use Chainlink then RUN ```@chainlink/token @chainlink/contracts @appliedblockchain/chainlink-plugins-fund-link```
 
 ## Hardhat shorthand
