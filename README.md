@@ -14,7 +14,7 @@ This kit has different branches. Pull the branch you need for your project.
 1) Create a directory on your pc
 2) RUN ``` git init ```
 3) For the main branch RUN ``` git clone -b main https://github.com/andywoodruff6/hh_Starter_Kit.git ```
-3) For the chainlink branch RUN ``` git clone -b main-plus-chainlinnk https://github.com/andywoodruff6/hh_Starter_Kit.git ```
+3) For the chainlink branch RUN ``` git clone -b main-plus-chainlink https://github.com/andywoodruff6/hh_Starter_Kit.git ```
 4) RUN ``` cd hh_Start_kit```
 5) RUN ``` npm install --save dev @openzeppelin/contracts ```
 6) RUN ```npm install --save dev @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-web3 web3```
