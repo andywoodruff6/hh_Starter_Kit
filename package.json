@@ -1,0 +1,19 @@
+{
+  "name": "hh_starter_kit",
+  "version": "1.0.0",
+  "description": "Starter kit for a Hardhat project",
+  "main": "Readme.md",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywoodruff6/hh_Starter_Kit.git"
+  },
+  "author": "TNB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andywoodruff6/hh_Starter_Kit/issues"
+  },
+  "homepage": "https://github.com/andywoodruff6/hh_Starter_Kit#readme"
+}
