@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/andywoodruff6/hh_Starter_Kit/issues"
   },
-  "homepage": "https://github.com/andywoodruff6/hh_Starter_Kit#readme"
+  "homepage": "https://github.com/andywoodruff6/hh_Starter_Kit#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.8",
+    "solhint": "^3.3.6"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@openzeppelin/contracts": "^4.3.2"
+  }
 }
