@@ -16,7 +16,7 @@ This kit has different branches. Pull the branch you need for your project.
 3) For the main branch RUN ``` git clone -b main https://github.com/andywoodruff6/hh_Starter_Kit.git ```
 3) For the chainlink branch RUN ``` git clone -b main-plus-chainlink https://github.com/andywoodruff6/hh_Starter_Kit.git ```
 4) RUN ``` cd hh_Starter_kit```
-5) RUN ``` npm install --save dev @openzeppelin/contracts @openzeppelin/utils```
+5) RUN ``` npm install --save @openzeppelin/contracts @chainlink/contracts```
 6) RUN ```npm install --save dev @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-web3 web3```
 7) RUN ``` npm install --save dev @nomiclabs/hardhat-etherscan solidity-coverage hardhat-gas-reporter hardhat-deploy```
 8) OPTIONAL: If you are going to use Chainlink then RUN ```npm install --save dev @chainlink/token @chainlink/contracts @appliedblockchain/chainlink-plugins-fund-link```
